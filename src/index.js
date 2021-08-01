@@ -10,8 +10,8 @@ function times(a, c) {
   return a * c;
 }
 
-function division(a, c) {
-  return a / c;
+function division(a, d) {
+  return a / d;
 }
 module.exports = {
   sum: sum,
